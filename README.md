@@ -2,7 +2,7 @@
 
 Acest repository a fost realizat pentru temele de curs la materia ,,Procesarea semnalelor".
 
-## Tema 1
+## Tema 2
 
 Cerinte:
 
