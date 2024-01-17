@@ -2,7 +2,15 @@
 
 Acest repository a fost realizat pentru temele de curs la materia ,,Procesarea semnalelor".
 
-## Tema 2
+## Tema 1 - Note muzicale
+
+Cerinte:
+
+1. Scrieți tonurile pentru notele muzicale Do, Re, Mi, Fa, Sol, La, Si, Do.
+
+2. Compuneți un cântec simplu clasic (ex. Frère Jacques) într-un singur semnal.
+
+## Tema 2 - Prelucrarea imaginilor cu DFT
 
 Cerinte:
 
