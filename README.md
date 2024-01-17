@@ -2,7 +2,9 @@
 
 Acest repository a fost realizat pentru temele de curs la materia ,,Procesarea semnalelor".
 
-## Cerinte
+## Tema 1
+
+Cerinte:
 
 1. Produceți imaginile și spectrul pentru funcțiile de mai jos și dați o explicație scurtă pentru fiecare rezultat.
 
@@ -15,7 +17,7 @@ Acest repository a fost realizat pentru temele de curs la materia ,,Procesarea s
 - Y5,0=YN−5,0=1, altfel Ym1,m2=0, ∀m1,m2
   
 - Y5,5=YN−5,N−5=1, altfel Ym1,m2=0, ∀m1,m2
-- 
+  
 - Atenție: x reprezintă informație în domeniul timpului, Y în domeninul frecvenței.
 
 2. Comprimați imaginea cu ratonul de mai sus prin atenuarea frecvențelor înalte până la un prag SNR autoimpus.
